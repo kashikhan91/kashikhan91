@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kashikhan91
+- 👀 I’m interested in ...Programming and Tech
+- 🌱 I’m currently learning ...Programming Language
+- 📫 How to reach me ...kashifmahmoodswati@gmail.com
