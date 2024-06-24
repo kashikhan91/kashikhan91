@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kashikhan91
+- 👋 Hi, I’m Kashif Mahmood
 - 👀 I’m interested in ...Programming and Tech
 - 🌱 I’m currently learning ...Node.js, Express.js, MongoDB
 - 📫 How to reach me ...kashifmahmoodswati@gmail.com
